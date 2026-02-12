@@ -3,7 +3,11 @@ using namespace std;
 
 int add(int a, int b) 
 {
+<<<<<<< HEAD
   return a + b + 28;
+=======
+  return a + b - 1;
+>>>>>>> test_branch
 }
 
 int multiply(int a, int b) 
