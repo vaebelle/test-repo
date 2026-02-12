@@ -13,8 +13,13 @@ int divide(float a, float b) {
   return b/a;
 }
 
+int subtract(int a, int b) {
+  return a - b;
+})
+
 int main() {
   cout << add(2, 3) << endl;
   cout << multiply(5, 10) << endl;
   cout << divide(4, 40) << endl;
+  cout << subtract(100 - 20) << endl;
 }
