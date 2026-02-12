@@ -15,4 +15,6 @@ int divide(float a, float b) {
 
 int main() {
   cout << add(2, 3) << endl;
+  cout << multiply(5, 10) << endl;
+  cout << divide(4, 40) << endl;
 }
